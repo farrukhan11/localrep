@@ -1,0 +1,7 @@
+.customHeight {
+    height: 50%; /* Set the height to 50% */
+    overflow:hidden;
+}
+input:placeholder{
+    color: white;
+}

@@ -1,0 +1,42 @@
+.area2 {
+    background-color: #222831;
+}
+
+.inputArea {
+    padding: 15px;
+    width: 60%;
+    margin: auto;
+    background-color: #222831;
+    border: none;
+    display: block;
+    outline: none;
+}
+
+.inputAreaNoBorder {
+    border: none;
+}
+
+
+.inputArea:focus {
+    background-color: #222831;
+    border: none;
+    outline: none;
+
+
+}
+
+.inputArea::selection {
+    background-color: #222831;
+    border: none;
+    outline: none;
+
+
+}
+
+.inputArea::placeholder {
+    color: #f7f7f7;
+    border: none;
+    outline: none;
+
+
+}
